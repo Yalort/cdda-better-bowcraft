@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "better_bowcraft",
+    "name": "Better Bowcraft",
+    "authors": [ "Jerbo" ],
+    "description": "This is a mod to help with the shitty archery.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
